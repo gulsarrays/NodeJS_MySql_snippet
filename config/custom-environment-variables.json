@@ -1,0 +1,6 @@
+{
+  "dbHost": "myenv_dbHost",
+  "dbUser": "myenv_dbUser",
+  "dbPass": "myenv_dbPass",
+  "dbName": "assignment_dbName"
+}
